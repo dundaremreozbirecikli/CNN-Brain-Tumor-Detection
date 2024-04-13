@@ -11,7 +11,7 @@ import tensorflow_addons as tfa
 
 class_labels = {'glioma':0, 'meningioma':1, 'notumor':2, 'pituitary':3}
 
-#Train iamges seperation
+# Train iamges seperation
 path = "archive-4/Training"
 train_data = []
 train_label = []
