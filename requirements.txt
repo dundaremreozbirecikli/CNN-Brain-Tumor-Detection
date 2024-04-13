@@ -1,0 +1,9 @@
+numpy
+Pillow
+scikit-learn
+matplotlib
+scipy
+seaborn
+keras
+tensorflow
+tensorflow-addons
